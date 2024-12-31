@@ -1,0 +1,1 @@
+This is my first project, a simple clone of the Google homepage built using HTML and CSS. The goal of this project is to replicate the design and layout of the Google search page as a way to practice and improve my front-end development skills.
